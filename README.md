@@ -114,14 +114,20 @@ pnpm dev
 ```
 
 ## 📷 系统截图
-*(建议在这里放 3-4 张 PPT 里的截图，比如地球自转、城市扫光、测量工具、数据统计面板的截图。格式如下：)*
-> `<img src="PPT里截图的URL或者放在本地的相对路径" width="800">`
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
+**📊 G2plot 多维数据图表绘制** > 结合 G2plot 实现的数据可视化面板，直观展示城市各项统计指标。
+<img width="1347" height="599" alt="image" src="https://github.com/user-attachments/assets/e09944fb-0981-42fe-a0f3-c64f1f978a24" />
+**📏 实用地图空间测量工具** > 提供精准的地图距离与多边形面积测量功能。
+<img width="1347" height="599" alt="image" src="https://github.com/user-attachments/assets/cfb82ad7-bb83-4434-9cc7-03a0e2f12326" />
+**🏘️ 城市特征图层叠加展示** > 支持多种 POI 数据的叠加渲染，清晰呈现城市功能区分布。
+<img width="1328" height="591" alt="image" src="https://github.com/user-attachments/assets/c56bb069-2df3-4948-a2ed-8335f5a491be" />
+**🚨 交通事故拉框空间查询** > 自定义绘制范围，实时检索并展示区域内的交通事故详情。
+<img width="1328" height="591" alt="image" src="https://github.com/user-attachments/assets/6a617722-8507-4cfa-84cc-e70660c91e2f" />
+**🏢 3D 建筑与厂房模型展示** > 精准加载并解析三维 obj 模型，打造立体的城市微观视角。
+<img width="1327" height="591" alt="image" src="https://github.com/user-attachments/assets/7563de0a-f152-4ebe-975e-3d56149485f2" />
+**⛅ 区域天气实时检索** > 按行政区划动态检索并展示温湿度、风向等实时气象信息。
+<img width="1328" height="591" alt="image" src="https://github.com/user-attachments/assets/f798c840-f9e3-486c-a55f-5a22b5976a64" />
+**🗺️ 多种地图底图风格无缝切换** > 支持卫星影像、夜间模式等多种底图风格的自由切换，适应不同分析场景。
+<img width="1327" height="591" alt="image" src="https://github.com/user-attachments/assets/6f151dde-4af1-4de9-91fa-2c09729cea36" />
+
 ## 🤝 贡献与许可
 本项目为课程结课实验项目，暂未完全开放协作。如需参考或交流，欢迎提交 Issue。
