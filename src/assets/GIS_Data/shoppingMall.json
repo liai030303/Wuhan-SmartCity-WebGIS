@@ -1,0 +1,5717 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "智造未来主题馆",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.15006,
+                    30.3932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "世茂·天街",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.317519,
+                    30.449027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "跨境购品源生活广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.48662,
+                    30.434338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天立枭鹏广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.43088,
+                    30.585823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "百尚购物广场",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.408312,
+                    30.719991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "阳光购物广场",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.618225,
+                    30.788747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华一兄弟时尚生活馆",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.278172,
+                    30.781896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "罗汉商业广场",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.306617,
+                    30.954337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PHOENIX MALL",
+                "area": "汉南区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.064581,
+                    30.335744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "绿地城欧镇OUTLETS",
+                "area": "汉南区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.063444,
+                    30.335607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "江夏永旺·美联商业综合体",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.31639,
+                    30.396168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "罗马春天OUTLETS",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.370172,
+                    30.386551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "罗马春天潮流广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.370246,
+                    30.385628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "柒号广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.317911,
+                    30.409725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "供销商业广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.45416,
+                    30.440116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mountain Bike",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.491277,
+                    30.466731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "左岭商城",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.621418,
+                    30.489808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "福星惠誉福莱中心",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.320428,
+                    30.567371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WPT·SHOW",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.395212,
+                    30.709141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华商平价广场",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.602987,
+                    30.832941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "仓埠商业广场",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.603711,
+                    30.834246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "德成·汉南广场",
+                "area": "汉南区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.071837,
+                    30.306907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "永安华贸商业广场",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.937598,
+                    30.457152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "经发进口商品交易中心",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.151886,
+                    30.476319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "全能通生活广场",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.176787,
+                    30.673329000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红星美凯龙红霞商业广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.262311,
+                    30.414959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "齐乐城时尚广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.331707,
+                    30.358785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "生活广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.371702,
+                    30.41043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金橙里",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.436737,
+                    30.447307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金融港广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.429539,
+                    30.45424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "铁建商城华中店",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.391698,
+                    30.447011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "购物生态公园",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.409342,
+                    30.459176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红枫维龙广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.409597,
+                    30.484701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东澜岸广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.263858,
+                    30.43315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金色城市",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26213,
+                    30.483378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "星空微尘数字商城",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.452293,
+                    30.419232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "嘉园·印象里广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.445498,
+                    30.50021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "嘉园印象里",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.445982,
+                    30.4999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丽红购物中心",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.485436,
+                    30.606938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丽红超级市场",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.486306,
+                    30.607374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "季佳荟",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.303406,
+                    30.503449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "义乌商贸城",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.307927,
+                    30.521559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "唔哈生活",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.20467,
+                    30.532984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "季佳·里美好广场",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.247918,
+                    30.538798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "季佳·里汉桥小镇",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.228034,
+                    30.548576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商量贩",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.232935,
+                    30.551304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "狮城汇",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.349564,
+                    30.50821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "狮城名居生活广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.349611,
+                    30.509347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "欢乐汇",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.339765,
+                    30.506187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长江崇文广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.342412,
+                    30.510195000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "永丰广场A座",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.415037,
+                    30.516082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华中科技大学万品汇广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.416014,
+                    30.516332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东方里",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.383466,
+                    30.590115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "匠心汇",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.381639,
+                    30.590416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "保利悦荟",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.359694,
+                    30.595321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和平大世界8-14城",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.355756,
+                    30.612185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和平大世界8-8城",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.354945,
+                    30.611539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和平大世界8-17城",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.353036,
+                    30.611317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和平大世界8-11城",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.353521,
+                    30.610547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和平大世界8-16城",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.354719,
+                    30.612147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和平大世界8-12城",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.354561,
+                    30.612247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "磨山新天地3期",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.196617,
+                    30.565344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "百泰·邻里汇",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.214219,
+                    30.586553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "酷坊",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.308094,
+                    30.558076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "银杏荟",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.308241,
+                    30.565733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金叶阳光",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.262674,
+                    30.592864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "101FASHION FACTORY ART STORE",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.282052,
+                    30.594078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉天地壹方北馆",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.314236,
+                    30.615997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "瑞达广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.270558,
+                    30.613689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长江城一号店",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.211359,
+                    30.599028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "乐佳购物中心",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.216917,
+                    30.601021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "盛惠·中原里",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.208265,
+                    30.607328000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金盛金银湖广场",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.202398,
+                    30.63215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金银潭广场",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.243137,
+                    30.650074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jin Yin Tan Plaza",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.242978,
+                    30.649795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汇悦天地",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.292187,
+                    30.652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "凯信后湖生活广场",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.294818,
+                    30.654209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "庭悦荟",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.224934,
+                    30.657879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ATT时尚广场",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.400069,
+                    30.637938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新生活摩尔城",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.322643,
+                    30.65574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "季佳·里新荣招商部",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.327236,
+                    30.656372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "台北商业广场",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.340748,
+                    30.658944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉鑫广场",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.332132,
+                    30.711272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "广地冷链国际冻品交易中心",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.430477,
+                    30.711162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丽桦·生活坊",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387278,
+                    30.720229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉口北中环商贸新城",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.313493,
+                    30.700384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "德成生活中心",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.28854,
+                    30.701504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "德成广场",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.289813,
+                    30.701644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "裕美佳",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.260789,
+                    30.709558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "名流城市广场",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.274469,
+                    30.70925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KAVON百联奥莱",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.258571,
+                    30.732685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国电信营业厅",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.255048,
+                    30.730174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "百联OUTLETS广场-D区9号",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.255283,
+                    30.73163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新崇光时尚广场",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.292108,
+                    30.798465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "六和商业广场",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.377605,
+                    30.867829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南德国际城商业",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.378307,
+                    30.884755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百仓储",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.372721,
+                    30.881359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂购物中心",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.371701,
+                    30.881028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "幸福时代百货广场",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.799916,
+                    30.826951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "幸福时代购物中心",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.798298,
+                    30.826224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖北武汉幸福时代百货广场店",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.79981,
+                    30.826268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金凯购物广场",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.162045,
+                    30.496724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Livat",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.168092,
+                    30.616165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "铁甲商城",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.17332,
+                    30.612505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鸿达乐活城",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.138494,
+                    30.618969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鸿达中央广场",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.138856,
+                    30.618463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "团结八方电商城",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.108864,
+                    30.607629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉自贸城4栋",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.051771,
+                    30.627863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉自贸城20栋",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.051149,
+                    30.627634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "兴新街便民广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.317084,
+                    30.346542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华兴商城",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.318927,
+                    30.346949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "江夏商场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.329616,
+                    30.351256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "江夏楚神国际商贸城",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.32923,
+                    30.351792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中央大街",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.329078,
+                    30.353996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "佳兴广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.309722,
+                    30.348306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "季佳·里纸坊",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.309421,
+                    30.348491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "江夏中心百货",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.31291,
+                    30.34829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "铜锣湾休闲佰惠广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.315735,
+                    30.347912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "江夏休闲百惠购物中心",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.313922,
+                    30.348116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新金新世界",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.314588,
+                    30.348111000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "江夏文化商城",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.315657,
+                    30.347589000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "齐乐城",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.33153,
+                    30.359081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万汇MALL",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.320432,
+                    30.37333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "联投广场万汇MALL",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.321371,
+                    30.372734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "欢乐广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.430586,
+                    30.420106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZHONGBAI WAREHOUSE",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.422904,
+                    30.436563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青年汇广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.423983,
+                    30.441612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "关山漾",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.411463,
+                    30.480836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "缤纷世界儿童游乐园",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.385867,
+                    30.477313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "光谷时尚城若曼莎",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.38685,
+                    30.477348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "曙光商贸城",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.396298,
+                    30.482454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华罗利广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.395909,
+                    30.483315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "曙光商贸城",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.396144,
+                    30.482124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "同兴生活广场",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.452205,
+                    30.431481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AEON MALL",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.20479,
+                    30.502241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "永旺梦乐城",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.204821,
+                    30.502008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "老通城",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.315854,
+                    30.500911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "季佳·荟烽火",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.295386,
+                    30.504009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泛悦坊",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.315168,
+                    30.509475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万峰菩提荟",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.316167,
+                    30.508944000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万隆广场",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.302856,
+                    30.518897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "精品商业广场",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.309718,
+                    30.535907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泛悦汇",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.304298,
+                    30.535576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "司隆广场",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.297534,
+                    30.537693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉飞·逛逛街",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.296373,
+                    30.540439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鹤来商业广场",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.299932,
+                    30.543129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "界立方3",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.298709,
+                    30.541649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "晟世·芳草地",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.297982,
+                    30.542142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蓝江商城",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.299158,
+                    30.544896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天亿广场",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.303615,
+                    30.537637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海森康体运动",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.315583,
+                    30.552275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "假日乐园购物中心",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.299559,
+                    30.54744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "楠山有约自力坊",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.268109,
+                    30.539468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉商银座购物广场E座",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.268601,
+                    30.549626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21世纪购物广场",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26673,
+                    30.549961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉商银座知音站台",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26528,
+                    30.549378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "闽东商务商业大厦",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.265052,
+                    30.550006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万福国际广场",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.254145,
+                    30.521805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "人信汇",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.200457,
+                    30.552688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "维佳体验城",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.325873,
+                    30.501467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华中师范大学东区购物中心",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.364794,
+                    30.512838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "清和广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374312,
+                    30.51846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泛悦·悦享馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.350684,
+                    30.512357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泛悦悦购馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.350308,
+                    30.51302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泛悦·城市OUTLETS",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.351565,
+                    30.513413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "龙岭·818广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.342788,
+                    30.520362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "利东街商业广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.402359,
+                    30.48807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "地下商业广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.392562,
+                    30.49739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "O-17广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.39658,
+                    30.495605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "港汇城",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.399545,
+                    30.500506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "哈乐城",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.410629,
+                    30.492573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "世达中心",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.412797,
+                    30.494664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "流行视窗",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.383591,
+                    30.505747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "流行视窗购物中心",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.384263,
+                    30.505541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "世界城广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.404281,
+                    30.506296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "联峰时代广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.400195,
+                    30.510302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LAKES DEUPTOWN",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.321213,
+                    30.523761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "朗汇商业联合展厅",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.332826,
+                    30.532846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新禧莲中商美食购物中心",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.317935,
+                    30.530877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "地下商场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.362217,
+                    30.524361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "赛博珞珈胡同",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.358779,
+                    30.525362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中南天紫广场-B馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.332218,
+                    30.53758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MO+Living Theater",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.326179,
+                    30.543521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "小东门宜家广场6号楼",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.317799,
+                    30.545348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中南天紫广场a馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.332683,
+                    30.538291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "银泰百货-总服务台",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.33371,
+                    30.53739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "江南创意市集",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.336475,
+                    30.545162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "星汇城",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.336891,
+                    30.546131000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "家盛时代城市生活广场",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.350448,
+                    30.562976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金禾中心",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.363655,
+                    30.577615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETAL百彤生活美学综合体",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.326246,
+                    30.581244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金地广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.384566,
+                    30.603552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中商徐东平价广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.344513,
+                    30.590273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万利生活广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.346387,
+                    30.59204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万利广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.346174,
+                    30.592409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南大天地",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.252445,
+                    30.573087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泛悦",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.222569,
+                    30.583678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南国·西汇-扶梯",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.223301,
+                    30.585096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "潮玩黑市",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.223086,
+                    30.585127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "利商新源日用品市场",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.269718,
+                    30.564395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "元亨·朴方",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.309275,
+                    30.564699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "沿江一号Mall",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.289989,
+                    30.56781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "批发城",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.290667,
+                    30.567869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "外滩1号",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.296505,
+                    30.575985000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "多牛世界三层g栋号",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.297211,
+                    30.581962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ogonblick北欧时刻武汉K11店",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.264167,
+                    30.578416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "云尚国际时尚中心",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.278055,
+                    30.571344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TBA",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.276685,
+                    30.571528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泰发商城",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.278956,
+                    30.57447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "云尚美食汇",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.279408,
+                    30.572523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "云尚·武汉国际时尚中心-A馆",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.278763,
+                    30.572287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "双隆商贸城",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.282281,
+                    30.571833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "云尚国际",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.279586,
+                    30.572000000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "库玛商业广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.283435,
+                    30.573898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "时代美博城",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.283653,
+                    30.576608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "玛桥西商厦",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.284756,
+                    30.574273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "御美广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.283513,
+                    30.577225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "奥地利广场",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.274379,
+                    30.575789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "顶好风口",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.273548,
+                    30.575947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新崇光时尚广场B座",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.274352,
+                    30.581017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新武展购物中心",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.273425,
+                    30.58205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新崇光时尚广场A座",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.274622,
+                    30.581936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉口新界B栋",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.260996,
+                    30.585488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "越秀",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.275501,
+                    30.587431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "省外贸商业广场",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.28188,
+                    30.587519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉华润万象城",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.280023,
+                    30.598709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "today今天",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.298133,
+                    30.596532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "禾园儿童商场",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.287351,
+                    30.602188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉天地壹方南馆",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.310021,
+                    30.608598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HORIZON壹方",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.310829,
+                    30.609346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉江宸天街",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26136,
+                    30.606351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万达广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.266686,
+                    30.60984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红桥文化艺术广场",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.284996,
+                    30.613631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "花桥商品城",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.284271,
+                    30.61842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "唐蔡路台北商场楼",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.275454,
+                    30.618426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "厦华新汇广场",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.223351,
+                    30.587379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长嘉百货批发城",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.211763,
+                    30.59501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "松时代",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.222434,
+                    30.599006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAMILY52",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.220139,
+                    30.600043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中央商务区",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.248363,
+                    30.599397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万达广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.254807,
+                    30.602442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泛海城市广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.255882,
+                    30.603178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红T时尚楼",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.235486,
+                    30.621921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商超市",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.238801,
+                    30.639024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泛悦Mall",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.266738,
+                    30.627224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "季佳·荟",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.264335,
+                    30.626727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "季佳荟·新华花园",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.265385,
+                    30.626031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泛悦",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26641,
+                    30.628211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "妙邻广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.258173,
+                    30.629679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "远洋心里PARK",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.259136,
+                    30.630552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C2时尚广场",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.316912,
+                    30.623305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C2时尚广场C6号楼",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.316642,
+                    30.622882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "兴怡生活广场",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.310043,
+                    30.645207000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "季佳·荟百步亭",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.314928,
+                    30.653374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉口城市广场E区",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.31102,
+                    30.653325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红坊里店",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.384755,
+                    30.627671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "红坊里·众诚汇",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.384944,
+                    30.628089000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "健吾假日广场",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.391546,
+                    30.63218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大洲商城",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.387379,
+                    30.630705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百仓储",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.403953,
+                    30.637404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青山商业广场",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.40274,
+                    30.63956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "木林森青山百货商场",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.403389,
+                    30.639824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉口北",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.324199,
+                    30.700699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉口北国际商品交易中心二号仓储中心六区",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.324225,
+                    30.701164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉口北国际商品交易中心豪华酒店用品城",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.317657,
+                    30.70223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "铜锣湾",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.35262,
+                    30.713526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鑫瑶厨具设备",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.317209,
+                    30.703419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "百联OUTLETS广场A区17号",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.256872,
+                    30.731011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉百联OUTLETSc区",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.258519,
+                    30.731153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "百联OUTLETS广场-C区13号",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.257659,
+                    30.731057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "百联OUTLETS广场-C区1号",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.25919,
+                    30.730444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "世纪广场",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.569611,
+                    30.663692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "本本乐精品商城",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.574258,
+                    30.669408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂商业广场",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.376544,
+                    30.868365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "盛世商城",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.375838,
+                    30.874840000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OUTLETS",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.364909,
+                    30.873962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百百货",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.377219,
+                    30.879766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "时尚广场",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.803153,
+                    30.834786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "楚天商业城",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.80416,
+                    30.844044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Funyong纷悦集美空间",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.800065,
+                    30.840875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "佳兴购物中心",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.798129,
+                    30.843067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "白马购物广场",
+                "area": "汉南区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.083892,
+                    30.310529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新兰商业广场",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.056016,
+                    30.503556000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泊龙湾商场",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.055281,
+                    30.504127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新兰广场",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.053115,
+                    30.503632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "兴达商业广场",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.15338,
+                    30.488402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东风·新城商场",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.156977,
+                    30.492555000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湘隆时代商业广场E区",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.16657,
+                    30.497551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "悦活里.PARK",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.169877,
+                    30.617239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百百货",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.13397,
+                    30.620289000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "建新商贸城",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.031969,
+                    30.578268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新福茂·中央广场",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.032835,
+                    30.580833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蔡甸购物中心",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.028051,
+                    30.582152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百仓储",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.027081,
+                    30.582019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中心百货",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.134417,
+                    30.620146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "永旺梦乐城",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.206458,
+                    30.506076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "时代广场",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.206538,
+                    30.551269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泛悦Mall",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.324586,
+                    30.50582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "云尚城市奥莱",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.405096,
+                    30.503289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "季佳·荟雄楚",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.390028,
+                    30.498285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "帝斯曼国际中心",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.32933,
+                    30.535864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中商广场",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.331375,
+                    30.536886000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "未来城美食购物生态公园",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.35348,
+                    30.524422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "乐天城购物中心",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.354413,
+                    30.525435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "流行视窗购物中心",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.353449,
+                    30.525474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新世界百货-消费扶贫专柜",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.35356,
+                    30.526809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RELX专卖店",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.354567,
+                    30.527418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "米国",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.339522,
+                    30.552114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "愿景广场",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.341718,
+                    30.555499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "漫时区",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.323984,
+                    30.574394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "销品茂中商百货",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.342207,
+                    30.587416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中商百货",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.342097,
+                    30.587443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "塞飞洛",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.343043,
+                    30.587865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "销品茂",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.343523,
+                    30.587891000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "销品茂-大方",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.343799,
+                    30.589146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CPARK",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.206252,
+                    30.553706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "人信汇购物广场",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.206114,
+                    30.553841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "人信汇C座",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.205684,
+                    30.553901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万隆城市广场",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2071,
+                    30.555675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "江诗尼亚龙阳大洋百货专营店",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.209381,
+                    30.560825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大洋龙阳百货专营店",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.208288,
+                    30.561394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "悦刻",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.208996,
+                    30.561373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉商21世纪购物广场",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.210469,
+                    30.560766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "暨济商城",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.275308,
+                    30.563493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "龙腾第一大道蓝宝石座",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.277308,
+                    30.564486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "街舞城",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.277357,
+                    30.564793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉正街第一大道银座",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.276838,
+                    30.565836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "地一大道新天地",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.27701,
+                    30.565797000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金正茂B区",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.28131,
+                    30.568042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金正茂中国服装商贸城B区",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.280043,
+                    30.568025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万商白马服装交易中心市场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.285051,
+                    30.567169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉正街中心商城",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.277732,
+                    30.567625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉多福路商城",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.276621,
+                    30.569314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉多福路商城",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.275658,
+                    30.569803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新首信时尚广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.288817,
+                    30.577176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "atm潮流百货",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.290363,
+                    30.581905000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中心百货",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.289429,
+                    30.581613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中百商厦",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.289317,
+                    30.582099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新时盛商场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.289062,
+                    30.582935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新长盛广场",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.288935,
+                    30.583343000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商MALL",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.271784,
+                    30.578664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉商武展购物广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.273235,
+                    30.580453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "科技王大厦科技王商业广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.285708,
+                    30.582416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M+购物广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.286767,
+                    30.58372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "循礼门m商业广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.285701,
+                    30.583933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M%",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.284685,
+                    30.583101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商MALL•世贸",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.268749,
+                    30.580347000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商世贸广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.268793,
+                    30.580967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商MALL",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.268537,
+                    30.579915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "袯荟",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.268665,
+                    30.580566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "创世纪广场B区",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26806,
+                    30.581482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉国际广场购物广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.27024,
+                    30.581213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WEDGWOOD",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.271046,
+                    30.581063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.270467,
+                    30.581407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大智商城",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.294283,
+                    30.587955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "欧亚达国际广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.254381,
+                    30.614891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "星聚汇",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.237856,
+                    30.648945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新塘广场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.262309,
+                    30.624089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉口城市广场A区",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.305593,
+                    30.651637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C潮品馆",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.37711,
+                    30.627956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Station",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.377109,
+                    30.62724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商城市奥莱C潮品馆",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.377584,
+                    30.627788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洛克小镇",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.175025,
+                    30.506948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vanke",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.192474,
+                    30.599173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉荟聚中心-H282",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.167068,
+                    30.616377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "东星商城",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.139753,
+                    30.622341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美好市集",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.142033,
+                    30.622257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "北冰洋城市广场",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.141666,
+                    30.622277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "地下商业广场",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.204943,
+                    30.551962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "维佳·佰港城",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.32656,
+                    30.503661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洛克小镇",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.402653,
+                    30.505734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C·时尚广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.403047,
+                    30.5053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "法国风情街",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.403375,
+                    30.506084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "悦心汇",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.403991,
+                    30.505633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "群光广场二馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.356736,
+                    30.524691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "群光百货",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.355958,
+                    30.525302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "银泰创意城",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.356528,
+                    30.526536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NIVADA",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.356192,
+                    30.526463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "凯德1818",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.340057,
+                    30.552727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "凯德1818-POP MART",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.340592,
+                    30.553133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "群星城K3-1",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.348486,
+                    30.583919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉摩尔城B馆",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.208407,
+                    30.559397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海天广场B座",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.211293,
+                    30.561902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海天欢乐购服务台",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.211804,
+                    30.561943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "源强工艺玩具地下商城",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.27502,
+                    30.56528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉正品牌大楼",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.277033,
+                    30.569035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOMERSET",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.266481,
+                    30.56928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "江汉路万达商场",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.291471,
+                    30.578101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F座",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.291515,
+                    30.578538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美食购物中心",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.291743,
+                    30.579582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大汉口城",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.290008,
+                    30.579761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武商集团",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.270828,
+                    30.579816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉国际广场B",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.269994,
+                    30.580561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万达百货",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.173822,
+                    30.506513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万达广场",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.175547,
+                    30.506593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "秦榆食品展示厅",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.192941,
+                    30.596838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "凯德西城",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.193405,
+                    30.597182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip station",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.168917,
+                    30.61793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Suning易购悦刻专卖",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.168462,
+                    30.617693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "恒大城市广场",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.172283,
+                    30.661474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "群光广场",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.355302,
+                    30.524851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "星汇维港购物广场",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.250227,
+                    30.569651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1828武汉新天地",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.280084,
+                    30.573651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oval Space 一奥荟·武汉启城购物公园",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.292047,
+                    30.469579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "龙湖武汉白沙天街B馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.287357,
+                    30.47838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "豪华酒店用品城2期",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.317113,
+                    30.702296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万象城",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374412,
+                    30.880105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄陂广场E区",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.374236,
+                    30.880264
+                ]
+            }
+        }
+    ]
+}

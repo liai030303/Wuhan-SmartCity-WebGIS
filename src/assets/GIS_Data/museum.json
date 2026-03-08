@@ -1,0 +1,1223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉金楠雅园金丝楠木博物馆",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.235059,
+                    30.319523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖北明清古建筑博物馆",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.476155,
+                    31.092153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "木兰山地质博物馆",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.38946,
+                    31.097804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉侏儒山战役博物馆",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.827,
+                    30.446989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "江城紫砂艺术馆",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.965998,
+                    30.512481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蔡甸莲藕博物馆",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.92692,
+                    30.53857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄花涝文博馆",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.194406,
+                    30.719916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉长庭陶瓷博物馆",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.207885,
+                    30.376761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "石门峰博物馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.477528,
+                    30.515023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长江书法博物院",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.519898,
+                    30.507092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉云起草堂文化传媒有限责任公司",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.840328,
+                    30.871091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中山舰博物馆",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.134269,
+                    30.344823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "没有共产党就没有新中国百年报刊馆",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.079347,
+                    30.54064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "藏龙博物馆",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.423292,
+                    30.393167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中南民族大学民族学博物馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.389075,
+                    30.482968000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "酶法多肽博物馆",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.544198,
+                    30.478804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "光谷教育发展研究院",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.485844,
+                    30.503863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "博物馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.365616,
+                    30.561979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "博物馆综合展馆-讲解服务联系处",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.365949,
+                    30.561248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "张之洞与武汉博物馆",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.243216,
+                    30.558979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "琴台钢琴博物馆",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.260078,
+                    30.56043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉大禹文化博物馆",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.284325,
+                    30.555836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉天人合一奇石博物馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.300255,
+                    30.554162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黎黄陂路街头博物馆",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.302349,
+                    30.58653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "艺舒文艺画馆",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.237294,
+                    30.602462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国油脂博物馆",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.220743,
+                    30.652745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新洲博物馆",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.818856,
+                    30.844473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "易家人",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.152826,
+                    30.555853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "军恋博物馆",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.410954,
+                    30.398112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉地质调查中心龙化石博物馆",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.421594,
+                    30.459190000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中南财经政法大学中国货币金融历史博物馆",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.385077,
+                    30.473397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华中农业大学博物馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.357676,
+                    30.476087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "竹韵堂竹雕博物馆",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.283026,
+                    30.55371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉汉绣博物馆",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.246348,
+                    30.530192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高龙博物馆",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.247897,
+                    30.529388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高龙博古城",
+                "area": "汉阳区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.246583,
+                    30.53029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华中师范大学文物馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.360734,
+                    30.520186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国地质大学逸夫博物馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.40043,
+                    30.517706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "水生生物博物馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.355835,
+                    30.545213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "佳和艺术博物馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.365043,
+                    30.566237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉凡氏老相机博物馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.33564,
+                    30.594879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "达临性学博物馆",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.262237,
+                    30.600187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "横渡长江博物馆",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.307097,
+                    30.590504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉博物馆",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.256928,
+                    30.61144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉中部兰亭艺术博物馆",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.197181,
+                    30.608143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "参差咖啡博物馆",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.225013,
+                    30.619544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长江非遗博物馆",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.224563,
+                    30.62083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国武钢博物馆",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.405365,
+                    30.629705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "刘士标剪纸艺术博物馆",
+                "area": "青山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.396745,
+                    30.642373000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汉口商业博物馆",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.325213,
+                    30.706147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "谭茂林文化传媒",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.257021,
+                    30.709515000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖北黄陂扬楼子老榨坊博物馆",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.259871,
+                    30.708154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "硚口民族工业博物馆",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.191081,
+                    30.606375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "博物馆",
+                "area": "江夏区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.315284,
+                    30.347165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "辛亥革命博物馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.305421,
+                    30.537463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "辛亥革命博物院",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.306795,
+                    30.542123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "翟雅阁博物馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.314995,
+                    30.550335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "昙华林近代教育博物馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.313533,
+                    30.551493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉楚上艺术空间",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.310106,
+                    30.552586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉革命博物馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.300659,
+                    30.553384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "户部巷博物馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.298629,
+                    30.554101000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉槐川博物馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.373187,
+                    30.518334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "藏拙藏式文化生活馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.371407,
+                    30.51698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "科技企业孵化器博物馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.415929,
+                    30.500207000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉星空失恋博物馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.409,
+                    30.501152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "华中师范大学生物博物馆",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.358155,
+                    30.520836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖北钱币博物馆",
+                "area": "武昌区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.334952,
+                    30.543295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉牙齿博物馆",
+                "area": "硚口区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.243455,
+                    30.575295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "江汉关博物馆",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.297343,
+                    30.575629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "纽设设计",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.29679,
+                    30.583045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "詹天佑故居博物馆",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.299566,
+                    30.585667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "电力博物馆",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.298587,
+                    30.585007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "荆楚金石博物馆",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.268404,
+                    30.601977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉记忆·唐朝阁楼博物馆",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.300564,
+                    30.588826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LAP画廊",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.287358,
+                    30.593256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "钻石艺术博物馆",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.312863,
+                    30.606291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "博物馆",
+                "area": "黄陂区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.380757,
+                    30.87228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "问津春秋博物馆",
+                "area": "新洲区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.799102,
+                    30.846325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "博物馆",
+                "area": "汉南区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.086206,
+                    30.316017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉三尤酒瓶博物馆",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.148232,
+                    30.619589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "博物馆",
+                "area": "蔡甸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.02899,
+                    30.583011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "王德树农民书法艺术博物馆",
+                "area": "东西湖区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.129766,
+                    30.622597000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武汉爱情博物馆",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.29252,
+                    30.577442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "永康里街头博物馆",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.290001,
+                    30.57781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "造物生态公园",
+                "area": "江岸区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.288773,
+                    30.585636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖北地质博物馆",
+                "area": "江汉区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.267613,
+                    30.579219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "糖果达令",
+                "area": "洪山区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.356556,
+                    30.526616
+                ]
+            }
+        }
+    ]
+}
