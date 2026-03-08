@@ -1,4 +1,4 @@
-# 🌐 智慧城市-武汉 WebGIS 综合可视化平台
+<img width="1327" height="591" alt="image" src="https://github.com/user-attachments/assets/c9a70624-1432-4dd0-a81d-d88c392f2236" /># 🌐 智慧城市-武汉 WebGIS 综合可视化平台
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?style=flat-square&logo=vue.js)
 ![Vite](https://img.shields.io/badge/Vite-⚡-646CFF?style=flat-square&logo=vite)
@@ -114,14 +114,20 @@ pnpm dev
 ```
 
 ## 📷 系统截图
-*(建议在这里放 3-4 张 PPT 里的截图，比如地球自转、城市扫光、测量工具、数据统计面板的截图。格式如下：)*
-> `<img src="PPT里截图的URL或者放在本地的相对路径" width="800">`
+*G2plot图表绘制
 ![alt text](image.png)
+*地图测量工具
 ![alt text](image-1.png)
+*特征图层叠加
 ![alt text](image-2.png)
+*拉框查询交通事故
 ![alt text](image-3.png)
-![alt text](image-4.png)
+*3D建筑模型展示
+<img width="1327" height="591" alt="image" src="https://github.com/user-attachments/assets/7563de0a-f152-4ebe-975e-3d56149485f2" />
+*区域天气检索
 ![alt text](image-5.png)
-![alt text](image-6.png)
+*多种地图风格切换
+<img width="1327" height="591" alt="image" src="https://github.com/user-attachments/assets/6f151dde-4af1-4de9-91fa-2c09729cea36" />
+
 ## 🤝 贡献与许可
 本项目为课程结课实验项目，暂未完全开放协作。如需参考或交流，欢迎提交 Issue。
